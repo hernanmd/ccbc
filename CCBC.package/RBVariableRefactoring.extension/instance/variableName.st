@@ -1,0 +1,4 @@
+*CCBC
+variableName
+
+	^ variableName

@@ -1,0 +1,4 @@
+*CCBC
+sourceClass
+
+	^ class
