@@ -4,5 +4,6 @@ exportView
 
 	RTPNGExporter new 
 		builder: self view view;
-		fileName: self view name , '.png';
+		fileName: self view title , '.png';
+		withScale;
 		exportToFile. 
