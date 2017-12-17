@@ -15,5 +15,5 @@ baseline: spec
 			spec package: 'CCBC' with: [ spec requires: 'Roassal2' ].
 			spec package: 'CCBC-Core' with: [ spec requires: 'CCBC' ].
 	
-			spec group: 'Core' with: #('CCBC').
+			spec group: 'Core' with: #('CCBC-Core').
 			spec group: 'default' with: #('Core') ]
