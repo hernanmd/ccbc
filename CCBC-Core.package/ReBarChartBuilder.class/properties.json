@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "HernanMoralesDurand 8/3/2017 18:15",
+	"super" : "Object",
+	"category" : "CCBC-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"legendText",
+		"critiques",
+		"view",
+		"barColor",
+		"packageName",
+		"extent",
+		"barWidth"
+	],
+	"name" : "ReBarChartBuilder",
+	"type" : "normal"
+}
