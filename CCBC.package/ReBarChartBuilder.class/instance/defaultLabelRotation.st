@@ -1,0 +1,4 @@
+defaults
+defaultLabelRotation
+
+	^ -30

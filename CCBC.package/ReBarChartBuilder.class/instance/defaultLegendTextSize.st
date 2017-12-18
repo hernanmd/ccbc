@@ -1,0 +1,4 @@
+defaults
+defaultLegendTextSize
+
+	^ 32
