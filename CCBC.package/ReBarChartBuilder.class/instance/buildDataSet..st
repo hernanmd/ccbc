@@ -1,5 +1,6 @@
 private
 buildDataSet: aCollection
+	" Private - Configure de receiver's data set "
 
 	| ds |
 	ds := RTData new.
