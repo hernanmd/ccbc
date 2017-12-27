@@ -12,6 +12,8 @@ Metacello new
 
 # Screenshots
 
-![Spec Method Critiques](https://github.com/hernanmd/ccbc/blob/master/Collections%20-%20Strings.png)
+![Spec Method Critiques](https://github.com/hernanmd/ccbc/blob/master/Spec%20Method%20Critiques%20(Pharo%206.1).png)
+
 ![Iceberg  Method Critiques](https://github.com/hernanmd/ccbc/blob/master/Spec%20Method%20Critiques%20(Pharo%206.1).png)
+
 ![String Method Critiques](https://github.com/hernanmd/ccbc/blob/master/Collections%20-%20Strings.png)
