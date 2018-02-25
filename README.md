@@ -3,8 +3,8 @@
  
 # Description
 
-Code Critics Bar Charts for Pharo Smalltalk.
-
+Code Critics Bar Charts for Pharo Smalltalk. It uses Renraku to collect code critiques and [Roassal](http://agilevisualization.com/) as visualization engine.
+ 
 # Installation
 
 ```smalltalk
@@ -35,7 +35,7 @@ ReBarChartBuilder new
   buildView
 ```
 
-# Plot class critiques
+## Plot class critiques
 
 ```smalltalk
 ReBarChartBuilder new     
