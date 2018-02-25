@@ -7,6 +7,7 @@ Code Critics Bar Charts for Pharo Smalltalk. It uses Renraku to collect code cri
  
 # Installation
 
+[//]: # (pi)
 ```smalltalk
 Metacello new	
   baseline: 'CCBC';	
