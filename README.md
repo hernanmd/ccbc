@@ -58,7 +58,6 @@ If you have discovered a bug or have a feature suggestion, feel free to create a
 If you'd like to make some changes yourself, see the following:      
 
   - Fork this repository to your own GitHub account and then clone it to your local device  
-  - Step 2
   - Test.
   - Add <your GitHub username> to add yourself as author below.
   - Finally, submit a pull request with your changes!
@@ -66,7 +65,11 @@ If you'd like to make some changes yourself, see the following:
   
 # License	
 
-This software is licensed under the MIT License.Copyright Hernán Morales Durand, 2018.Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+This software is licensed under the MIT License.
+
+Copyright Hernán Morales Durand, 2018.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
