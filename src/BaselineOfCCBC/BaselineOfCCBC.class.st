@@ -15,7 +15,6 @@ BaselineOfCCBC >> baseline: spec [
 				with: [ spec repository: 'github://ObjectProfile/Roassal2/src' ].
 			
 			spec package: 'CCBC' with: [ spec requires: 'Roassal2' ].
-	
 			spec group: 'Core' with: #('CCBC').
 			spec group: 'default' with: #('Core') ]
 
